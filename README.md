@@ -13,4 +13,4 @@
 <div id="visit" align="center">
   <img src="https://komarev.com/ghpvc/?username=depst0r&style=flat-square&color=red" alt=""/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=nord&show_icons=true&hide_border=true&layout=compact)
