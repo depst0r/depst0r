@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=depst0r&style=flat-square&color=red" alt=""/>
 </div>
 <div id="leng">
-  ![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
