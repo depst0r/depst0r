@@ -16,6 +16,5 @@
 <div id="leng" align="center">
 
 ![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<a href="https://github-profile-trophy.vercel.app/?depst0r=ryo-ma&theme=juicyfresh"></a>
 </div>
 
