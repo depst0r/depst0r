@@ -16,5 +16,11 @@
 <div id="leng" align="center">
 
 ![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+<p align="center">
+  <a href="https://depst0r.github.io/portfolio" target="_blank" style="background-color:#4CAF50; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">
+    🚀 Посетить мое портфолио
+  </a>
+</p>
 </div>
 
