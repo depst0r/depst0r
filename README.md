@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://depst0r.github.io/portfolio" target="_blank" style="background-color:#4CAF50; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">
-    🚀 Посетить мое портфолио
+    🚀 GH-PAGES 🚀
   </a>
 </p>
 </div>
