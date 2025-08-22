@@ -14,11 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=depst0r&style=flat-square&color=red" alt=""/>
 </div>
 <div id="leng" align="center">
-
+  
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue)](https://depst0r.github.io/portfolio)
 
-
-[🚀 Portfolio 🚀](https://depst0r.github.io/portfolio)
 <p>
   ## 🔍 Code Review
 
