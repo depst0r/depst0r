@@ -17,7 +17,7 @@
 
 ![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-<!-- Центрированная кнопка с ссылкой -->
+
 <p align="center">
   <a href="https://depst0r.github.io/portfolio" target="_blank" style="
     background-color:#4CAF50;
