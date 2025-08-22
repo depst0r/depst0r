@@ -18,20 +18,7 @@
 ![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
-<p align="center">
-  <a href="https://depst0r.github.io/portfolio" target="_blank" style="
-    background-color:#4CAF50;
-    color:#ffffff;
-    padding:12px 24px;
-    border-radius:8px;
-    font-weight:bold;
-    text-decoration:none;
-    display:inline-block;
-    font-family:Arial, sans-serif;
-    font-size:16px;">
-    🚀 Portfolio 🚀
-  </a>
-</p>
+[🚀 Portfolio 🚀](https://depst0r.github.io/portfolio)
 <p>
   ## 🔍 Code Review
 
