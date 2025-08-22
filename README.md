@@ -15,7 +15,7 @@
 </div>
 <div id="leng" align="center">
 
-![depst0r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue)](https://depst0r.github.io/portfolio)
 
 
 [🚀 Portfolio 🚀](https://depst0r.github.io/portfolio)
