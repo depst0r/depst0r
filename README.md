@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue)](https://depst0r.github.io/portfolio)
 <div>
 <h3>🛠️ Мои навыки</h3>
-  <ul>
+  <ul style="list-style-type:none; padding-left: 0;">
     <li list-style-type="none">HTML5 & CSS3 — семантическая структура и стилизация</li>
     <li list-style-type="none">JavaScript (ES6+) — динамика и логика</li>
     <li list-style-type="none">Sass & Less — препроцессоры для более эффективной стилизации</li>
