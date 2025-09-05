@@ -19,7 +19,7 @@
 <div>
 <h3>🛠️ Мои навыки</h3>
   <ul style="list-style-type:none; padding-left: 0;">
-    <li list-style-type="none">HTML5 & CSS3 — семантическая структура и стилизация</li>
+    <li style="list-style-type:none; padding-left: 0;" list-style-type="none">HTML5 & CSS3 — семантическая структура и стилизация</li>
     <li list-style-type="none">JavaScript (ES6+) — динамика и логика</li>
     <li list-style-type="none">Sass & Less — препроцессоры для более эффективной стилизации</li>
     <li list-style-type="none">Bootstrap — быстрый старт адаптивных интерфейсов</li>
