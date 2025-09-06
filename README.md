@@ -20,7 +20,7 @@
 
 <br/>
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue?style=for-the-badge)](https://depst0r.github.io/portfolio)
-
+<br/>
 ---
 
 ### 🛠️ **Мои навыки**
