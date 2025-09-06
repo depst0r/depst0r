@@ -25,6 +25,16 @@
 - 💙 **Bootstrap** — быстрый старт адаптивных интерфейсов
 - 🟢 **Git & GitHub** — контроль версий и командная работа
 
+<div align="center">
+
+
+[![Build Status](https://github.com/depst0r/your-repo-name/actions/workflows/build.yml/badge.svg)](https://github.com/depst0r/your-repo-name/actions/workflows/build.yml)
+
+
+[![codecov](https://codecov.io/gh/depst0r/your-repo-name/branch/main/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/depst0r/your-repo-name)
+
+</div>
+
 
 <p>
   <h3>🔍 Code Review</h3>
