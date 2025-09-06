@@ -16,6 +16,8 @@
 <div id="leng" align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue)](https://depst0r.github.io/portfolio)
+
+<div align="center">
 <div align="left">
 <h3>🛠️ Мои навыки</h3>
   <div>HTML5 & CSS3  — семантическая структура и стилизация</div>
@@ -25,6 +27,9 @@
   <div>Git & GitHub — контроль версий и командная работа  </div>
 
 </div>
+  
+</div>
+
 
 <p>
   <h3>🔍 Code Review</h3>
