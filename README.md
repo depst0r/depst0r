@@ -5,6 +5,7 @@
 
 <div align="center">
 
+
 <a href="https://www.linkedin.com/in/siarhey-pantsialeyenka-4537461a7" style="text-decoration:none" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -12,13 +13,12 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=depst0r&style=flat-square&color=red" alt="Visitor Count"/>
 
+
 <br/>
-
-</div>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue?style=for-the-badge)](https://depst0r.github.io/portfolio)
 
 ---
@@ -40,3 +40,5 @@
 Ваши комментарии помогают мне становиться лучше! 🙌
 
 Спасибо за помощь! 💙
+
+</div>
