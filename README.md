@@ -2,6 +2,15 @@
 <div align="center">
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlc2JraWloMmIxM241OGtsc2tkZDNxaTI0MXlhd29qMTd6ZThyZiZlcD12MV9pbnRlbm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpV4r/giphy.gif" width="400"/>
+
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+
+  <img src="https://media.giphy.com/media/KeTh1z8bB5Vfo9k6eg/giphy.gif" width="400"/>
+
   
   <h1>Привет, я Сергей! 👋</h1>
   <h3>Frontend Developer из Беларуси</h3>
