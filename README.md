@@ -14,6 +14,9 @@
     <a href="https://t.me/depstor_1">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
+      <a href="https://hh.ru/resume/f2a17433ff0f5734bc0039ed1f65453668305a">
+    <img src="https://img.shields.io/badge/Резюме_HH.ru-FF3366?style=for-the-badge&logo=superuser&logoColor=white" alt="Резюме HH.ru"/>
+  </a>
     <a href="https://depst0r.github.io/portfolio">
       <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
