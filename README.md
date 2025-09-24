@@ -34,6 +34,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ## 📊 Статистика GitHub
 
 <div align="center">
@@ -63,4 +65,4 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Всегда рад новым знакомствам!</b></em>
 </div>
-</div>
+
