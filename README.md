@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
   <h1>Привет, я Сергей! 👋</h1>
-  <h3>Frontend Developer из Беларуси</h3>
+  <h3>Frontend Developer из Республика Беларусь</h3>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/siarhey-pantsialeyenka-4537461a7">
