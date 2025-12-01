@@ -45,7 +45,8 @@
 ## 📊 Статистика GitHub
 </div>
 <div align="center">
-  ![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&count_private=true&hide_title=true&theme=radical)
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical" height="165" alt="Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical" height="165" alt="Top Langs"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical" height="165"/>
 </div>
 
