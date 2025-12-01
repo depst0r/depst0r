@@ -45,7 +45,7 @@
 ## 📊 Статистика GitHub
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical" width="400" height="165" alt="GitHub Stats"/>
+  ![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&count_private=true&hide_title=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical" height="165"/>
 </div>
 
