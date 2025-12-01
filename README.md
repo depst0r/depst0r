@@ -45,6 +45,12 @@
 ## 📊 Статистика GitHub
 </div>
 <div align="center">
+  <a href="https://github.com/depst0r">
+  <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=default" width="49%" />
+</a>
+<a href="https://github.com/depst0r">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=default" width="49%" />
+</a>
  <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical" height="165"/>
 </div>
