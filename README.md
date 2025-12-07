@@ -46,7 +46,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=depst0r&show_icons=true&theme=radical" height="165" />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/depst0r"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=depst0r&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0d1117&title_color=ff6b9d&icon_color=00d4ff&text_color=ffffff&border_color=ff6b9d"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=depst0r&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff"/> </a>
 </div>
 
 ## 🔍 Code Review & Collaboration
