@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=depst0r&show_icons=true&theme=radical" height="165" />
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=depst0r&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff"/> </a>
   <a href="https://git.io/streak-stats"> <img height="180em" src="https://streak-stats.demolab.com?user=depst0r&theme=radical&border_radius=20&background=0D1117&border=FF6B9D&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF"/> </a>
+<a href="https://github.com/depst0r/awesome-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=depst0r&repo=awesome-project&theme=radical&border_radius=10" /> </a> <a href="https://github.com/depst0r/another-project"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=depst0r&repo=another-project&theme=radical&border_radius=10" /> </a>
 </div>
 
 ## 🔍 Code Review & Collaboration
