@@ -33,14 +33,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=depstor&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=depstor&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="300"/>
-  </a>
-</div>
-
 ## 💫 Обо мне
 
 ```javascript
@@ -107,13 +99,17 @@ console.log(sergey); // Запусти меня в работу!
     </tr>
   </table>
 </div>
-📊 Технологический стек
+## 📊 Технологический стек
+
 <div align="center">
-Категория	Технологии
-Core	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-Styles	https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-Tools	https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white
-Learning	https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white
+
+| Категория | Технологии |
+|:---------:|------------|
+| **Core** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **Styles** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> |
+| **Learning** | <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> |
+
 </div>
 🌟 Цитата, которая меня характеризует
 <div align="center">
@@ -133,4 +129,4 @@ Learning	https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logo
 https://visitor-badge.laobi.icu/badge?page_id=depst0r.depst0r
 https://img.shields.io/github/followers/depst0r?style=social
 https://img.shields.io/github/stars/depst0r?style=social
-</div> ```
+</div> 
