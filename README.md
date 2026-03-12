@@ -141,14 +141,10 @@ console.log(sergey); // Запусти меня в работу!
   ### ⭐ Открыт для предложений ⭐
   
   <br>
-  
-  <!-- Здесь твои счетчики в правильном формате -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=depst0r.depst0r" />
   <img src="https://img.shields.io/github/followers/depst0r?style=social" />
-  <img src="https://img.shields.io/github/stars/depst0r?style=social" />
   
   <br>
   <br>
-  <sub>Нажми на змею вверху — она смешная 😄</sub>
 </div>
 </div> 
