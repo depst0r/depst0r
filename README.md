@@ -41,17 +41,6 @@
   </a>
 </div>
 
-## 📌 Pinned Projects (Закрепленные проекты)
-
-<div align="center">
-  <a href="https://github.com/depst0r/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depst0r&repo=portfolio&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/depst0r/your-best-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=depst0r&repo=your-best-project&theme=radical&hide_border=true" />
-  </a>
-</div>
-
 ## 💫 Обо мне
 
 ```javascript
@@ -84,12 +73,40 @@ console.log(sergey); // Запусти меня в работу!
 ```
 🚀 Динамика развития
 <div align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true" height="150" /> </picture> <picture> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" height="150" /> </picture> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=depst0r&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%"/> </div>
-🎯 Почему я — топ-кандидат в 35 лет?
+## 🎯 Почему я — сильный кандидат в 35 лет?
+
 <div align="center">
-🧠	💪	🚀	🤝
-Опыт 10+ лет в IT	Не боюсь сложных задач	Учусь быстрее молодых	Командный игрок
-Знаю, как не наступать на грабли	Беру ответственность на себя	React освоил за месяц	Учу других и учусь сам
-</div><div align="center"> <table> <tr> <td align="center"> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300"/> </td> <td> <h3>🔥 Почему мне можно доверять?</h3> <ul> <li>✅ <b>35 лет</b> — возраст, когда не надо объяснять про дедлайны</li> <li>✅ <b>Семья, ипотека</b> — мотивация работать стабильно и качественно</li> <li>✅ <b>Горю делом</b>, а не просто "отсиживаю часы"</li> <li>✅ <b>Английский</b> — читаю документацию без переводчика</li> <li>✅ <b>GitHub</b> — коммичу каждый день (видно по графику)</li> </ul> </td> </tr> </table> </div>
+  
+| 🧠 | 💪 | 🚀 | 🤝 |
+|---|---|---|---|
+| **Опыт 3+ года во frontend** | **Не боюсь сложных задач** | **Постоянно учусь новому** | **Командный игрок** |
+| Сделал несколько рабочих проектов | Беру ответственность на себя | React изучил и применяю | Умею слушать и слышать |
+| Понимаю жизненный цикл разработки | Довожу задачи до конца | Осваиваю TypeScript и анимации | Помогаю коллегам |
+
+</div>
+
+## 🔥 Почему мне можно доверять?
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300"/>
+      </td>
+      <td width="50%">
+        <h3>🔥 Мои преимущества:</h3>
+        <ul>
+          <li>✅ <b>35 лет</b> — возраст, когда не надо объяснять про дедлайны</li>
+          <li>✅ <b>Семья, ипотека</b> — мотивация работать стабильно и ответственно</li>
+          <li>✅ <b>Горю делом</b>, а не просто "отсиживаю часы"</li>
+          <li>✅ <b>Английский</b> — читаю документацию без переводчика</li>
+          <li>✅ <b>GitHub</b> — коммичу регулярно (видно по графику)</li>
+          <li>✅ <b>Обучаемость</b> — React освоил самостоятельно и продолжаю расти</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 📊 Технологический стек
 <div align="center">
 Категория	Технологии
