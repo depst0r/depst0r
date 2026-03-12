@@ -81,7 +81,7 @@ const sergey = {
 };
 
 console.log(sergey); // Запусти меня в работу!
-
+```
 🚀 Динамика развития
 <div align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true" height="150" /> </picture> <picture> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" height="150" /> </picture> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=depst0r&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%"/> </div>
 🎯 Почему я — топ-кандидат в 35 лет?
