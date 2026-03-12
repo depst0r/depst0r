@@ -119,14 +119,36 @@ console.log(sergey); // Запусти меня в работу!
     — Сергей, Frontend Developer
 
 </div>
-📫 Связаться со мной
-<div align="center"> <a href="https://t.me/depstor_1"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://calendly.com/your-link"> <img src="https://img.shields.io/badge/Записаться_на_созвон-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/> </a> </div><div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-⭐ Открыт для предложений ⭐
+## 📫 Связаться со мной
 
-<sub>Нажми на змею вверху — она смешная 😄</sub>
-<br> <br>
+<div align="center">
+  <a href="https://t.me/depstor_1">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://calendly.com/your-link">
+    <img src="https://img.shields.io/badge/Записаться_на_созвон-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+  </a>
+</div>
 
-https://visitor-badge.laobi.icu/badge?page_id=depst0r.depst0r
-https://img.shields.io/github/followers/depst0r?style=social
-https://img.shields.io/github/stars/depst0r?style=social
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  
+  ### ⭐ Открыт для предложений ⭐
+  
+  <br>
+  
+  <!-- Здесь твои счетчики в правильном формате -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=depst0r.depst0r" />
+  <img src="https://img.shields.io/github/followers/depst0r?style=social" />
+  <img src="https://img.shields.io/github/stars/depst0r?style=social" />
+  
+  <br>
+  <br>
+  <sub>Нажми на змею вверху — она смешная 😄</sub>
+</div>
 </div> 
