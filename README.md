@@ -86,7 +86,6 @@ console.log(sergey); // Запусти меня в работу!
 </div>
 
 ## 🔥 Почему мне можно доверять?
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <div align="center">
   <table>
