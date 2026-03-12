@@ -41,12 +41,16 @@ const sergey = {
 };
 ```
 <div align="center"> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="400"/> </div>
-🛠️ Мой стек технологий
+## 🛠️ Мой стек технологий
+
 <div align="center">
-Категория	Технологии
-Frontend	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
-Стилизация	https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
-Инструменты	https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+
+| Категория | Технологии |
+|:---------:|------------|
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **Стилизация** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| **Инструменты** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
+
 </div>
 📈 Почему стоит нанять меня в 35?
 <div align="center"> <table> <tr> <td>🧠</td> <td><b>Опыт:</b> Знаю, какие решения работают, а какие — нет</td> </tr> <tr> <td>🎯</td> <td><b>Ответственность:</b> 35 лет — возраст, когда не нужно напоминать о дедлайнах</td> </tr> <tr> <td>🔥</td> <td><b>Мотивация:</b> Хочу расти и зарабатывать, а не просто "сидеть в найме"</td> </tr> <tr> <td>📚</td> <td><b>Обучаемость:</b> React изучил, потому что надо. Значит, и новое освою</td> </tr> </table> </div>
