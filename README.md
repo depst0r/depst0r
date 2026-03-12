@@ -2,6 +2,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
   # 👋 Привет, я Сергей — Frontend Developer
+  <div align="center">
+  <img src="https://img.shields.io/badge/⚡_Статус-Активно_ищу_работу-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯_Сейчас-Обновляю_портфолио_на_React-00C7B7?style=for-the-badge"/>
+  <br>
+  <sub>35 лет — возраст брать новые высоты, а не сдаваться</sub>
+</div>
+
   ### 🎯 Превращаю идеи в интерактивные интерфейсы | 35 лет — возраст опыта и зрелых решений
 
   <div align="center">
