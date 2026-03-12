@@ -41,3 +41,29 @@ const sergey = {
 };
 ```
 <div align="center"> <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="400"/> </div>
+🛠️ Мой стек технологий
+<div align="center">
+Категория	Технологии
+Frontend	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+Стилизация	https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white
+Инструменты	https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+</div>
+📈 Почему стоит нанять меня в 35?
+<div align="center"> <table> <tr> <td>🧠</td> <td><b>Опыт:</b> Знаю, какие решения работают, а какие — нет</td> </tr> <tr> <td>🎯</td> <td><b>Ответственность:</b> 35 лет — возраст, когда не нужно напоминать о дедлайнах</td> </tr> <tr> <td>🔥</td> <td><b>Мотивация:</b> Хочу расти и зарабатывать, а не просто "сидеть в найме"</td> </tr> <tr> <td>📚</td> <td><b>Обучаемость:</b> React изучил, потому что надо. Значит, и новое освою</td> </tr> </table> </div>
+🚀 Сейчас в работе
+<div align="center"> <b>🔄 Обновляю портфолио на React + Vite</b> <br> <i>Добавляю анимации GSAP и Framer Motion</i> <br> <br> <a href="https://depst0r.github.io/portfolio"> <img src="https://img.shields.io/badge/Посмотреть_текущую_версию-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a> </div>
+📊 GitHub статистика
+<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" width="48%" /> <br> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical&hide_border=true" width="40%" /> </div>
+🤝 Открыт к сотрудничеству
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+💬 Хочешь предложить работу? Просто хочешь пообщаться?
+
+35 лет — это возраст, когда:
+
+    ✅ Не нужно объяснять, что такое дедлайн
+
+    ✅ Умею слышать заказчика
+
+    ✅ Код пишу для людей, а не для галочки
+
+<a href="https://t.me/depstor_1"> <img src="https://img.shields.io/badge/Написать_в_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </div><div align="center"> <sub>✨ Если мой профиль тебя зацепил — ты знаешь, что делать ✨</sub> <br> <sub>Сергей, 35 лет. В IT — навсегда.</sub> </div> ```
