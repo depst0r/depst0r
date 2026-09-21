@@ -68,16 +68,6 @@ console.log(sergey); // Запусти меня в работу!
 <h3>🚀 Динамика развития</h3>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
-
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=depst0r&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=depst0r&theme=radical&utcOffset=3" alt="Productive Time" />
-</p>
-
-<p>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=depst0r&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
@@ -96,10 +86,6 @@ console.log(sergey); // Запусти меня в работу!
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/depst0r&label=Repos&query=$.public_repos&style=for-the-badge&logo=github&color=50fa7b&labelColor=282a36" />
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/depst0r/depst0r/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake" />
-  <img src="https://raw.githubusercontent.com/depst0r/depst0r/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake" />
-</p>
 
 </div>
 ## 🎯 Почему я — сильный кандидат в 35 лет?
