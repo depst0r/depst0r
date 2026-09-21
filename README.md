@@ -129,9 +129,6 @@ console.log(sergey); // Запусти меня в работу!
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://calendly.com/your-link">
-    <img src="https://img.shields.io/badge/Записаться_на_созвон-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-  </a>
 </div>
 
 ---
