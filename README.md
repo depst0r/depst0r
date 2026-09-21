@@ -68,14 +68,6 @@ console.log(sergey); // Запусти меня в работу!
 <h3>🚀 Динамика развития</h3>
 
 <p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=depst0r&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=depst0r&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
-
-<p>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=depst0r&theme=radical" alt="Profile Details" />
 </p>
 
