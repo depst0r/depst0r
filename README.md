@@ -63,8 +63,44 @@ const sergey = {
 
 console.log(sergey); // Запусти меня в работу!
 ```
-🚀 Динамика развития
-<div align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true" height="150" /> </picture> <picture><source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=depst0r&theme=radical&hide_border=true" height="150" /> </picture> 
+<div align="center">
+
+<h3>🚀 Динамика развития</h3>
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=depst0r&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depst0r&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" />
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=depst0r&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=depst0r&theme=radical&utcOffset=3" alt="Productive Time" />
+</p>
+
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=depst0r&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=depst0r&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
+
+<p>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=depst0r&theme=radical" alt="Profile Details" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/depst0r?label=Followers&style=for-the-badge&logo=github&color=bd93f9&labelColor=282a36" />
+  <img src="https://img.shields.io/github/stars/depst0r?label=Stars&style=for-the-badge&logo=github&color=ff79c6&labelColor=282a36" />
+  <img src="https://komarev.com/ghpvc/?username=depst0r&label=Profile%20Views&color=8be9fd&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/depst0r&label=Repos&query=$.public_repos&style=for-the-badge&logo=github&color=50fa7b&labelColor=282a36" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/depst0r/depst0r/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/depst0r/depst0r/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake" />
+</p>
+
 </div>
 ## 🎯 Почему я — сильный кандидат в 35 лет?
 
